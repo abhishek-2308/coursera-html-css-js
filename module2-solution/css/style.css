@@ -32,7 +32,7 @@ h1 {
   border: 1px solid black;
   font-weight: bold;
 }
-/* Tablet */
+
 @media (min-width: 768px) and (max-width: 991px) {
   .col {
     width: 50%;
@@ -41,7 +41,7 @@ h1 {
     width: 100%;
   }
 }
-/* Desktop */
+
 @media (min-width: 992px) {
   .col {
     width: 33.33%;
